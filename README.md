@@ -1,3 +1,5 @@
+vipmode.ir  -  ishahin.biz
+
 Open req.php (Line 19)
 
 $api = 'API';
